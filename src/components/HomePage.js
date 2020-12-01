@@ -1,5 +1,5 @@
 import React from 'react'
-import TopBarDesktop from '../TopBarDesktop'
+import TopBarDesktop from './TopBarDektop'
 import Blogs from './Blogs'
 import ChatBot from './ChatBot'
 import Footer from './Footer'
